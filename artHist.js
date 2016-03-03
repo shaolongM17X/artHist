@@ -126,7 +126,7 @@ var ArtPieces = [
 		src: "artPieces/TheTemptationofSaintAnthony.jpg"
 	},
 	{
-		name: "Santa Maria del Fiore—Dome",
+		name: "Santa Maria del Fiore Dome",
 		Author: "Filippo Brunelleschi",
 		period: "1420-36. Check slide6",
 		src: "artPieces/domeOfsantamariia.jpg"
