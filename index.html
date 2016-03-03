@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<link rel="stylesheet" href="https://code.getmdl.io/1.1.1/material.indigo-pink.min.css">
+	<link rel="stylesheet" type="text/css" href="app.css">
+	<script defer src="https://code.getmdl.io/1.1.1/material.min.js"></script>
+	<title>Art History</title>
+</head>
+<body>
+	<div class="mdl-layout mdl-js-layout">
+		<header class="mdl-layout__header mdl-layout__header--transparent">
+		    <div class="mdl-layout__header-row">
+		      <!-- Title -->
+		      <span class="mdl-layout-title">Art Pieces</span>
+		      <!-- Add spacer, to align navigation to the right -->
+		      <div class="mdl-layout-spacer"></div>
+		    </div>
+		</header>
+		<div class="mdl-layout__drawer">
+		    <span class="mdl-layout-title">Art Pieces</span>
+		    <nav class="mdl-navigation">
+		    </nav>
+		</div>
+		<div class="main-wrapper">
+			<div class="mdl-card mdl-shadow--2dp" id="pic">
+				<img src="artPieces/bookofHours.jpg" alt="art piece" id="img">	
+			</div>
+			<div class="mdl-card mdl-shadow--2dp" id="details">
+				<div class="mdl-card__title">
+				    <h2 class="mdl-card__title-text" id="art_title">Hours of Jeanne d'Evreaux</h2>
+				</div>
+				<div class="content-wrapper">
+					<div class="input_part">
+						<form action="#">
+							<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+							    <input class="mdl-textfield__input" type="text" id="artist-input">
+							    <label class="mdl-textfield__label" for="artist-input">Artist or Patron...</label>
+							</div>
+							<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+							    <input class="mdl-textfield__input" type="text" id="period-input">
+							    <label class="mdl-textfield__label" for="period-input">Period...</label>
+							</div>
+						</form>
+					</div>
+				</div>
+				
+				<div class="mdl-card__actions mdl-card--border">
+					<a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="show-answer">
+				      Show answer
+				    </a>
+				    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" id="next-button">
+				      Next
+				    </a>
+				</div>
+				<div class="answer_part">
+					<h5>Artist / Patron</h5>
+					<div class="mdl-card__supporting-text" id="artist-name">
+					    Jean Pucelle
+					</div>
+					<h5>Period..</h5>
+					<div class="mdl-card__supporting-text" id="art-period">
+					    1324-1328
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script type="text/javascript" src="artHist.js"></script>
+</body>
+</html>
