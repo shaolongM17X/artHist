@@ -299,6 +299,30 @@ var ArtPieces = [
 		period: "1538",
 		src: "artPieces/venusofurbiinoTitian.jpg",
 	},
+	{
+		name: "Villa Rotonda",
+		Author: "Palladio",
+		period: "1560s",
+		src: "artPieces/villaRotonda.jpg",
+	},
+	{
+		name: "Self Portrait",
+		Author: "Duerer",
+		period: "1500",
+		src: "artPieces/selfportrait.jpg",
+	},
+	{
+		name: "The Four Horsemen of the Apocalypse",
+		Author: "Duerer",
+		period: "1497-1498",
+		src: "artPieces/TheFourHorsemenoftheApocalypse.jpg",
+	},
+	{
+		name: "Adam and Eve",
+		Author: "Duerer",
+		period: "1504",
+		src: "artPieces/adamandeveduerer.jpg",
+	},
 ];
 
 var answer_button = $("#show-answer");
