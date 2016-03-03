@@ -365,6 +365,90 @@ var ArtPieces = [
 		period: "1565",
 		src: "artPieces/hunterinthesnow.jpg",
 	},
+	{
+		name: "The Founding of Tenochtitlan",
+		Author: "Page from Codex Mendoza. Aztec",
+		period: "1545",
+		src: "artPieces/foundingoftenochtitlan.jpg",
+	},
+	{
+		name: "View of the World",
+		Author: "Page from the Codex Fejervary-Mayer. Mexico",
+		period: "1400-1518",
+		src: "artPieces/viewofTheWorld.jpg",
+	},
+	{
+		name: "Aztec Sun Stone",
+		Author: "",
+		period: "Discovered 17 December 1790 at El Zócalo, Mexico City",
+		src: "artPieces/aztecStone.jpg",
+	},
+	{
+		name: "The Goddess Coatlicue",
+		Author: "",
+		period: "1500",
+		src: "artPieces/goddesCoatlicue.jpg",
+	},
+	{
+		name: "Feather Headdress of Moctezuma",
+		Author: "",
+		period: "before 1519",
+		src: "artPieces/headdressMoctezuma.jpg",
+	},
+	{
+		name: "Double-headed serpent",
+		Author: "",
+		period: "1400-1600",
+		src: "artPieces/doubleheadserpent.jpg",
+	},
+	{
+		name: "Double-headed serpent",
+		Author: "",
+		period: "1400-1600",
+		src: "artPieces/doubleheadserpent.jpg",
+	},
+	{
+		name: "quipu",
+		Author: "",
+		period: "",
+		src: "artPieces/quipu.jpg",
+	},
+	{
+		name: "Inca Stonework",
+		Author: "",
+		period: "",
+		src: "artPieces/IncaStonework.jpg",
+	},
+	{
+		name: "Machu Picchu",
+		Author: "",
+		period: "1450",
+		src: "artPieces/manchupicch.jpg",
+	},
+	{
+		name: "Inca Masonry Machu Picchu",
+		Author: "",
+		period: "",
+		src: "artPieces/incamasonry_manchupicchu.jpg",
+	},
+	{
+		name: "Dumbarton Oaks Royal Tunic with Tocapu",
+		Author: "",
+		period: "1438-1532",
+		src: "artPieces/dumbartonoaks.jpg",
+	},
+	{
+		name: "Llama, Bolivia or Peru, found near Lake Titicaca, Bolivia, Inca",
+		Author: "",
+		period: "15th century",
+		src: "artPieces/llama.jpg",
+	},
+	{
+		name: "Miniature silver Incan figure dressed in feather headdress and woven cloak.",
+		Author: "",
+		period: "15th century",
+		src: "artPieces/miniaturesilver.jpg",
+	},
 ];
 
 var answer_button = $("#show-answer");
