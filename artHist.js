@@ -323,6 +323,48 @@ var ArtPieces = [
 		period: "1504",
 		src: "artPieces/adamandeveduerer.jpg",
 	},
+	{
+		name: "Saint Luke Drawing the Virgin Mary",
+		Author: "Jan Gossaert",
+		period: "1520",
+		src: "artPieces/saintlukedrawvirginJanGossaert.jpg",
+	},
+	{
+		name: "Compare: Saint Luke Drawing the Virgin Mary",
+		Author: "Rogier van der Weyden",
+		period: "1435-49",
+		src: "artPieces/lukedrawingvirgin.jpg",
+	},
+	{
+		name: "Landscape in the New World",
+		Author: "Jan Mostaert",
+		period: "1545",
+		src: "artPieces/LandscapeintheNewWorld.jpg",
+	},
+	{
+		name: "Garden of Earthly Delights",
+		Author: "Hieronymus Bosch",
+		period: "1505-1515",
+		src: "artPieces/gardenofdelights.jpg",
+	},
+	{
+		name: "Garden of Earthly Delights, exterior",
+		Author: "Hieronymus Bosch",
+		period: "1505-1515",
+		src: "artPieces/GardenofEarthlyDelightsexterior.jpg",
+	},
+	{
+		name: "The Grain Harvest",
+		Author: "Bruegel",
+		period: "1565",
+		src: "artPieces/thegrainharvest.jpg",
+	},
+	{
+		name: "Hunters in the Snow",
+		Author: "Bruegel",
+		period: "1565",
+		src: "artPieces/hunterinthesnow.jpg",
+	},
 ];
 
 var answer_button = $("#show-answer");
