@@ -269,6 +269,36 @@ var ArtPieces = [
 		period: "1506",
 		src: "artPieces/SaintMatthew.jpg",
 	},
+	{
+		name: "Creation of Adam, Sistine Chapel Ceiling",
+		Author: "Michelangelo",
+		period: "1508-1512",
+		src: "artPieces/creationofadam.jpg",
+	},
+	{
+		name: "Saint Peter’s Basilica",
+		Author: "Michelangelo",
+		period: "1546-64",
+		src: "artPieces/michelangeloSaintPeter.jpg",
+	},
+	{
+		name: "Sleeping Venus",
+		Author: "Giorgione",
+		period: "1510",
+		src: "artPieces/SleepingVenus.jpg",
+	},
+	{
+		name: "The Pastoral Concetert",
+		Author: "Giorgione or Titian",
+		period: "1510",
+		src: "artPieces/thepastoralconcetert.jpg",
+	},
+	{
+		name: "Venus of Urbino",
+		Author: "Titian",
+		period: "1538",
+		src: "artPieces/venusofurbiinoTitian.jpg",
+	},
 ];
 
 var answer_button = $("#show-answer");
