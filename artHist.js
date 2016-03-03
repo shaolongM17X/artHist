@@ -251,6 +251,24 @@ var ArtPieces = [
 		period: "1515-16",
 		src: "artPieces/CartoonforthetapestryportrayingChrist’sChargetoPeter.jpg",
 	},
+	{
+		name: "Pieta",
+		Author: "Michelangelo",
+		period: "1500",
+		src: "artPieces/Pieta.jpg",
+	},
+	{
+		name: "David",
+		Author: "Michelangelo",
+		period: "1501-04",
+		src: "artPieces/Davidmichelangelo.jpg",
+	},
+	{
+		name: "Saint Matthew",
+		Author: "Michelangelo",
+		period: "1506",
+		src: "artPieces/SaintMatthew.jpg",
+	},
 ];
 
 var answer_button = $("#show-answer");
