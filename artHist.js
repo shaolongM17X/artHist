@@ -114,13 +114,13 @@ var ArtPieces = [
 		src: "artPieces/saintursula.jpg"
 	},
 	{
-		name: "The Temptation of Saint Anthony",
+		name: "The Buxheim Saint Christopher",
 		Author: "??",
 		period: "Mid-15th century. Key term: Woodcut",
 		src: "artPieces/TheBuxheimSaintChristopher.jpg"
 	},
 	{
-		name: "The Buxheim Saint Christopher",
+		name: "The Temptation of Saint Anthony",
 		Author: "Martin Schongauer",
 		period: "1470-1480. Engraving",
 		src: "artPieces/TheTemptationofSaintAnthony.jpg"
