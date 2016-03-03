@@ -114,7 +114,7 @@ var ArtPieces = [
 		src: "artPieces/saintursula.jpg"
 	},
 	{
-		name: "The Buxheim Saint Christopher",
+		name: "The Temptation of Saint Anthony",
 		Author: "??",
 		period: "Mid-15th century. Key term: Woodcut",
 		src: "artPieces/TheBuxheimSaintChristopher.jpg"
@@ -204,12 +204,6 @@ var ArtPieces = [
 		src: "artPieces/saintfrancisinecstasy.jpg",
 	},
 	{
-		name: "Saint Francis in Ecstasy",
-		Author: "Giovanni Bellini",
-		period: "1470s",
-		src: "artPieces/saintfrancisinecstasy.jpg",
-	},
-	{
 		name: "The Madonna of the Rocks",
 		Author: "Leonardo da Vinci",
 		period: "1485",
@@ -249,7 +243,7 @@ var ArtPieces = [
 		name: "Cartoon for the tapestry portraying Christ’s Charge to Peter",
 		Author: "Raphael",
 		period: "1515-16",
-		src: "artPieces/CartoonforthetapestryportrayingChrist’sChargetoPeter.jpg",
+		src: "artPieces/CartoonforthetapestryportrayingChristsChargetoPeter.jpg",
 	},
 	{
 		name: "Pieta",
@@ -258,7 +252,7 @@ var ArtPieces = [
 		src: "artPieces/Pieta.jpg",
 	},
 	{
-		name: "David",
+		name: "David-Michelangelo",
 		Author: "Michelangelo",
 		period: "1501-04",
 		src: "artPieces/Davidmichelangelo.jpg",
@@ -394,12 +388,6 @@ var ArtPieces = [
 		Author: "",
 		period: "before 1519",
 		src: "artPieces/headdressMoctezuma.jpg",
-	},
-	{
-		name: "Double-headed serpent",
-		Author: "",
-		period: "1400-1600",
-		src: "artPieces/doubleheadserpent.jpg",
 	},
 	{
 		name: "Double-headed serpent",
